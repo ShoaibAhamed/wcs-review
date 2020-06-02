@@ -1,6 +1,6 @@
 /* ------------------------------------------------
-  Project:   Bootsland - Creative Bootstrap 4 Landing Page
-  Author:    ThemeHt
+  Project:  WCS
+  Author:    Web team
   ------------------------------------------------ */
 
 /*@import url('https://fonts.googleapis.com/css?family=Poppins:300, 300i, 400, 400i, 500, 500i, 600, 600i, 700, 700i, 800, 800i, 900, 900i&display=swap');*/
@@ -607,7 +607,7 @@ Shadow
     text-transform: uppercase;
     /* line-height: 27px !important;*/
     /*font-family: Copperplate, "Copperplate Gothic Light", fantasy;*/
-    font-family: Open Sans SemiBold;
+    font-family: Open Sans;
     margin-top: -.25%;
 }
 
@@ -1631,7 +1631,7 @@ hr {
     top: 6.1%;
     left: 0;
     background-color: #221B68;
-    /*  z-index: 3 !important;*/
+    z-index: 3000 !important;
 
 }
 
@@ -1643,6 +1643,7 @@ hr {
     text-align: center;
     margin-top: 10px;
     margin: auto;
+    z-index: 3000 !important;
 }
 
 .openBtn:hover {

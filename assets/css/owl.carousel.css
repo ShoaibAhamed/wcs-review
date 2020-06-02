@@ -197,7 +197,7 @@
 
 .owl-carousel .owl-nav{display:block;position:absolute;text-indent:inherit; text-align: center; bottom:-20px;transform:translateX(-50%);-webkit-transform:translateX(-50%);-o-transform:translateX(-50%);-ms-transform:translateX(-50%);-moz-transform:translateX(-50%);left:50%;z-index:999;}
 .owl-carousel .owl-nav button.owl-prev, .owl-carousel .owl-nav button.owl-next {width: 50px; height: 50px; line-height: 55px; font-weight: bold; background: #ffffff; border-radius: 50%; color: #02060b; cursor: pointer; display: inline-block; font-size: 24px; margin: 0 10px; -webkit-box-shadow: 0 0.5rem 1rem rgba(110, 0, 255, 0.4) !important;
-    box-shadow: 0 0.5rem 1rem rgba(110, 0, 255, 0.4) !important;}
+    box-shadow: 0 0.5rem 1rem #221B68 !important;}
 .owl-carousel .owl-nav button.owl-prev:hover,
 .owl-carousel .owl-nav button.owl-next:hover{background-color: #221B68; color: #ffffff}
 
